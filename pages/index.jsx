@@ -396,7 +396,7 @@ export default function Home() {
       {/* CONTACT */}
       <section className="py-20 px-8 text-center">
         <h2 className="text-4xl font-bold">Let’s Build Something Intelligent</h2>
-        <p className="text-gray-400 mt-4">contact@youragency.com</p>
+        <p className="text-gray-400 mt-4">inferiawebsolutions@gmail.com</p>
       </section>
 <ChatbotWidget />
 <SneakyRobot  />
